@@ -1,3 +1,7 @@
+body {
+    background-color: lavender;
+}
+
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
@@ -5,6 +9,13 @@ h1 {
     text-align: center;
     color: brown;
 }
+
+strong {
+    color: royalblue;
+    font-weight: bold;
+}
+
+
 
 h2 {
     color: teal;
@@ -43,4 +54,15 @@ ul {
 dt{
     text-decoration: underline;
     color: chocolate;
+}
+
+#goHome {
+    color: white;
+    background-color: #4CAF50;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 2px 2px;
+    padding: 10px 22px;
 }
