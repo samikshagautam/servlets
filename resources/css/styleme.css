@@ -1,5 +1,5 @@
 body {
-    background-color: lavender;
+    background-color:blue;
 }
 
 h1 {
@@ -56,13 +56,3 @@ dt{
     color: chocolate;
 }
 
-#goHome {
-    color: white;
-    background-color: #4CAF50;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    cursor: pointer;
-    margin: 2px 2px;
-    padding: 10px 22px;
-}
