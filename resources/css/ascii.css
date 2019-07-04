@@ -1,0 +1,35 @@
+body{
+    background-color: #CCCCFF;
+    font-family: sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+#heading{
+    text-align: center;
+    font-size: 32pt;
+}
+
+#animationarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 400px;
+    font-size: 12pt;
+    font-family: monospace;
+    font-weight: bold;
+}
+#fieldSet {
+    display: flex;
+    justify-content: center;
+}
+
+fieldset {
+    border: 5px solid black;
+    vertical-align: baseline;
+}
+
+footer {
+    float: right;
+}
